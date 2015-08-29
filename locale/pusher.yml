@@ -1,0 +1,4 @@
+pusher:
+  show_updated_discussions:
+    one: "Pokaż {count} wyświetlanych tematów"
+    other: "Pokaż {count} dyskusje aktualizacje"

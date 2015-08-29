@@ -1,0 +1,111 @@
+core:
+  account: Profil
+  activity: Aktywność
+  administration: Administracja
+  alert: Powiadomienia
+  all_discussions: Wszystkie pytania
+  before_log_in_link: Masz już konto?
+  before_sign_up_link: Nie masz konta?
+  bio_placeholder: Napisz coś o sobie
+  cannot_reply: Nie można odpowiadać
+  cannot_reply_help: Nie masz uprawnień, aby odpowiadać w tej dyskusji.
+  change_email: Zmień e-mail
+  change_password: Zmień hasło
+  change_password_help: Kliknij przycisk poniżej i sprawdzić e-mail z linkiem do zmiany hasła.
+  close: Zamknij
+  confirm_delete_discussion: Czy na pewno chcesz usunąć tę dyskusję?
+  confirm_discard_discussion: Twoje pytanie nie zostało dodane. Czy chcesz je usunąć?
+  confirm_discard_edit: Nie zapisano zmian. Czy chcesz je usunąć?
+  confirm_discard_reply: Twoja odpowiedz nie została dodana. Czy chcesz ją usunąć?
+  confirmation_email_sent: "Wysłaliśmy e-mail potwierdzający na {email} Jeśli niedługo się nie pojawi, sprawdź folder spam."
+  controls: Ustawienia
+  delete: Usuń
+  delete_forever: Usuń na zawsze
+  deleted: "[skreślony]"
+  disclose_online: Pozwól innym zobaczyć, kiedy jestem online
+  discussion_renamed_post: "{username} zmienił tytuł z {old} na {new}."
+  discussion_renamed_notification: "{username} zmienił tytuł"
+  discussion_replied: "Ostatnia odpowiedź {ago} przez {username}"
+  discussion_started: "Zapytał {username}, {ago}"
+  discussion_title: Pytanie
+  discussions: Pytania
+  dismiss: Anuluj
+  edit: Edytuj
+  editing_post: "Odpowiedz #{number} w {discussion}"
+  email: Email
+  email_confirmation_required: "Musisz potwierdzić swój e-mail, zanim będzie można się zalogować. Wysłaliśmy e-mail potwierdzający na {email} jeśli nie dotrze szybko sprawdzić folder spam."
+  exit_full_screen: Wyjdź z edycji pełno-ekranowej
+  forgot_password: Nie pamiętam hasła
+  forgot_password_help: Wpisz swój adres email, a my wyślemy Ci link do zresetowania hasła.
+  forgot_password_link: Nie pamiętasz hasła?
+  full_screen: Pełny ekran
+  go_to: "Idź do {location}"
+  group_admin: Administrator
+  group_admins: Administratorzy
+  group_guest: Gość
+  group_guests: Goście
+  group_member: Użytkownik
+  group_members: Użytkownicy
+  group_mod: Moderator
+  group_mods: Moderatorzy
+  invalid_login: Twoje dane logowania są niepoprawne.
+  joined: "Dołączył {ago}"
+  joined_the_forum: Dołączył do nas
+  load_more: pokaż więcej
+  log_in: Zaloguj się
+  log_in_to_reply: Zaloguj się by odpowiadać
+  log_out: Wyloguj
+  mark_all_as_read: Oznacz wszystko jako przeczytane
+  mark_as_read: Oznacz jako przeczytane
+  minimize: Minimalizuj
+  no_notifications: żadnych nowych powiadomień
+  notifications: Powiadomienia
+  notify_discussion_renamed: Ktoś zmienił tytuł Twojego pytania
+  now: teraz
+  online: Online
+  original_post: Orginalne pytanie
+  password: Hasło
+  password_reset_email_sent: Wysłaliśmy Ci e-mail z linkiem do resetowania hasła. Sprawdź swój folder spam, jeśli nie otrzymasz go w ciągu kolejnej minuty lub dwóch.
+  period_later: "{period} później"
+  post_discussion: Zadaj pytanie
+  post_edited: "{username} edytował {ago}"
+  post_number: "Pytanie #{number}"
+  post_reply: Odpowiedz
+  posted_a_reply: Wyślij odpowiedź
+  posts: Odpowiedzi
+  powered_by_flarum: Forum dumnie wspierane przez Flarum
+  privacy: Prywatność
+  profile: Profile
+  prompt_rename_discussion: Wpisz nowy tytuł dla tego pytania:
+  recover_password: Odzyskaj hasło
+  refresh: Odśwież
+  remove: Usuń
+  rename: Zmień nazwę
+  reply: Odpowiedz
+  reply_posted: Twoja odpowiedź została wysłana.
+  restore: Przywróć
+  save_changes: Zapisz zmiany
+  search_all_discussions: 'Szukanie pytań dla "{query}"'
+  search_forum: Szukaj
+  send_password_reset_email: Wyślij e-mail resetowania hasła
+  settings: Ustawienia
+  sign_up: Zarejestruj się
+  sort_latest: Ostatnie
+  sort_newest: Najnowsze
+  sort_oldest: Najstarsze
+  sort_relevance: Trafność
+  sort_top: Top
+  start_a_discussion: Zadaj pytanie
+  started_a_discussion: Zadał pytanie
+  unread_posts: "{count} nieprzeczytane"
+  upload: Wyślij
+  username: Nazwa użytkownika
+  username_or_email: Nazwa użytkownika lub e-mail
+  users: Użytkownicy
+  view: Zobacz
+  viewing_posts:
+    one: "{index} z {count} odpowiedzi"
+    other: "{index} z {count} odpowiedzi"
+  welcome_user: "Witamy, {username}!"
+  write_a_post: Napisz pytanie...
+  write_a_reply: Napisz odpowiedź...

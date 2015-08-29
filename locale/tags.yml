@@ -1,0 +1,18 @@
+tags:
+  discussion_tagged_post:
+    one: "{username} {action} tag."
+    other: "{username} {action} tags."
+  added_tags: "dodał {tags}"
+  removed_tags: "usunął {tags}"
+  tag_new_discussion_title: Wybierz tagi dla pytania
+  edit_discussion_tags_title: "Edytuj tagi dla {title}"
+  edit_discussion_tags_link: Edytuj Tagi
+  choose_primary_tags:
+    one: Wybierz główny Tag
+    other: "Wybierz {count} głowne Tagi"
+  choose_secondary_tags:
+    one: Wybierz 1 lub więcej tagów
+    other: "Wybierz {count} więcej tagów"
+  confirm: Potwierdź
+  more: Więcej...
+  deleted: Usunięte

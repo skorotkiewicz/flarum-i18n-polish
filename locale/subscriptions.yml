@@ -1,0 +1,13 @@
+subscriptions:
+  following: Obserwowane
+  ignoring: Ignoruj
+  follow: Obserwuj
+  unfollow: Przestań obserwować
+  ignore: Ignoruj
+  notify_new_post: Ktoś odpowiedział na pytanie które obserwujesz
+  new_post_notification: "{username} odpowiedział"
+  not_following: Nie obserwuj
+  not_following_description: Powiadomienia gdy jakiś @user krzyknie.
+  following_description: Powiadomienia dla każdej odpowiedzi.
+  ignoring_description: Żadnych powiadomień.
+  unignore: Przestań ignorować
