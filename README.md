@@ -4,19 +4,18 @@
 
 ### Version
 
-- 0.1.0-dev (Build 3)
-- Released on August 29, 2015
+- 0.1.0-beta.2
 
 ### Compatibility
 
-- [Flarum] (https://github.com/flarum/core) 0.1.0-beta (Core)
-- [Likes] (https://github.com/flarum/likes) 0.1.0-beta
-- [Lock] (https://github.com/flarum/lock) 0.1.0-beta
-- [Mentions] (https://github.com/flarum/mentions) 0.1.0-beta
-- [Pusher] (https://github.com/flarum/pusher) 0.1.0-beta
-- [Sticky] (https://github.com/flarum/sticky) 0.1.0-beta
-- [Subscriptions] (https://github.com/flarum/subscriptions) 0.1.0-beta
-- [Tags] (https://github.com/flarum/tags) 0.1.0-beta
+- [Flarum] (https://github.com/flarum/core) 0.1.0-beta.2 (Core)
+- [Likes] (https://github.com/flarum/likes) 0.1.0-beta.2
+- [Lock] (https://github.com/flarum/lock) 0.1.0-beta.2
+- [Mentions] (https://github.com/flarum/mentions) 0.1.0-beta.2
+- [Pusher] (https://github.com/flarum/pusher) 0.1.0-beta.2
+- [Sticky] (https://github.com/flarum/sticky) 0.1.0-beta.2
+- [Subscriptions] (https://github.com/flarum/subscriptions) 0.1.0-beta.2
+- [Tags] (https://github.com/flarum/tags) 0.1.0-beta.2
 
 ## Documentation
 
