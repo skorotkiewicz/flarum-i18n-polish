@@ -63,7 +63,7 @@ core:
   notify_discussion_renamed: Ktoś zmienił tytuł Twojego pytania
   now: teraz
   online: Online
-  original_post: Orginalne pytanie
+  original_post: Oryginalne pytanie
   password: Hasło
   password_reset_email_sent: Wysłaliśmy Ci e-mail z linkiem do resetowania hasła. Sprawdź swój folder spam, jeśli nie otrzymasz go w ciągu kolejnej minuty lub dwóch.
   period_later: "{period} później"
