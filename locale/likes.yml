@@ -1,5 +1,5 @@
 likes:
-  post_liked_notification: "{username}  polubił twoją odpowiedz"
+  post_liked_notification: "{username}  polubił twoją odpowiedź"
   post_likes_modal_title: Użytkownicy którzy to lubią
   post_liked_by_self: "{users} lubią to."
   post_liked_by:
@@ -7,6 +7,6 @@ likes:
     other: "{users} lubią to."
   unlike_action: Nie lubię
   like_action: Lubię
-  notify_post_liked: Ktoś polubił twoją odpowiedz
+  notify_post_liked: Ktoś polubił twoją odpowiedź
   others: "{count} innych"
   you: Ty

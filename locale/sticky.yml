@@ -1,7 +1,7 @@
 sticky:
   discussion_stickied_notification: "{username} przypiął"
   discussion_stickied_post: "{username} przypiął pytanie."
-  discussion_unstickied_post: "{username} odepnął pytanie."
+  discussion_unstickied_post: "{username} odpiął pytanie."
   notify_discussion_stickied: Ktoś przypiął Twoje pytanie
   stickied: Przypięte
   sticky: Przypnij
