@@ -1,10 +1,10 @@
 mentions:
   reply_to_post: "Odpowiedź na #{number}"
-  post_mentioned_notification: "{username} skomentował twoją odpowiedz"
+  post_mentioned_notification: "{username} skomentował twoją odpowiedź"
   others: "{count} innych"
   user_mentioned_notification: "{username} wspomniał o Tobie"
   post_mentioned_by: "{users} odpowiedział na to."
   you: Ty
   reply_link: Skomentuj
-  notify_post_mentioned: Ktoś skomentował Twoją odpowiedz
+  notify_post_mentioned: Ktoś skomentował Twoją odpowiedź
   notify_user_mentioned: Ktoś wspomniał o Tobie w swojej odpowiedzi
