@@ -3,7 +3,7 @@ core:
   activity: Aktywność
   administration: Administracja
   alert: Powiadomienia
-  all_discussions: Wszystkie pytania
+  all_discussions: Wszystkie wątki
   before_log_in_link: Masz już konto?
   before_sign_up_link: Nie masz konta?
   bio_placeholder: Napisz coś o sobie
@@ -14,7 +14,7 @@ core:
   change_password_help: Kliknij przycisk poniżej i sprawdź e-mail z linkiem do zmiany hasła.
   close: Zamknij
   confirm_delete_discussion: Czy na pewno chcesz usunąć tę dyskusję?
-  confirm_discard_discussion: Twoje pytanie nie zostało dodane. Czy chcesz je usunąć?
+  confirm_discard_discussion: Twój wątek nie został dodany. Czy chcesz go usunąć?
   confirm_discard_edit: Nie zapisano zmian. Czy chcesz je usunąć?
   confirm_discard_reply: Twoja odpowiedź nie została dodana. Czy chcesz ją usunąć?
   confirmation_email_sent: "Wysłaliśmy e-mail potwierdzający na {email}. Jeśli niedługo się nie pojawi, sprawdź folder spam."
@@ -60,23 +60,23 @@ core:
   minimize: Minimalizuj
   no_notifications: żadnych nowych powiadomień
   notifications: Powiadomienia
-  notify_discussion_renamed: Ktoś zmienił tytuł Twojego pytania
+  notify_discussion_renamed: Ktoś zmienił tytuł Twojego wątku
   now: teraz
   online: Online
-  original_post: Oryginalne pytanie
+  original_post: Pierwsza wiadomość
   password: Hasło
   password_reset_email_sent: Wysłaliśmy Ci e-mail z linkiem do zresetowania hasła. Sprawdź swój folder spam, jeśli nie otrzymasz go w ciągu kolejnej minuty lub dwóch.
   period_later: "{period} później"
-  post_discussion: Zadaj pytanie
+  post_discussion: Rozpocznij wąrek
   post_edited: "{username} edytował {ago}"
-  post_number: "Pytanie #{number}"
+  post_number: "Wątek #{number}"
   post_reply: Odpowiedz
   posted_a_reply: Wyślij odpowiedź
   posts: Odpowiedzi
   powered_by_flarum: Forum dumnie wspierane przez Flarum
   privacy: Prywatność
   profile: Profil
-  prompt_rename_discussion: Wpisz nowy tytuł dla tego pytania:
+  prompt_rename_discussion: Wpisz nowy tytuł dla tego wątku:
   recover_password: Odzyskaj hasło
   refresh: Odśwież
   remove: Usuń
@@ -95,8 +95,8 @@ core:
   sort_oldest: Najstarsze
   sort_relevance: Trafność
   sort_top: Top
-  start_a_discussion: Zadaj pytanie
-  started_a_discussion: Zadał pytanie
+  start_a_discussion: Rozpocznij wątek
+  started_a_discussion: Rozpoczął wątek
   unread_posts: "{count} nieprzeczytane"
   upload: Wyślij
   username: Nazwa użytkownika
@@ -107,5 +107,5 @@ core:
     one: "{index} z {count} odpowiedzi"
     other: "{index} z {count} odpowiedzi"
   welcome_user: "Witamy, {username}!"
-  write_a_post: Napisz pytanie...
+  write_a_post: Wpisz treść wątku...
   write_a_reply: Napisz odpowiedź...
