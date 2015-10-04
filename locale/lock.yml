@@ -1,8 +1,8 @@
 lock:
   discussion_locked_notification: "{username} zamknął"
-  discussion_locked_post: "{username} zamknął pytanie."
-  discussion_unlocked_post: "{username} otworzył ponownie pytanie."
-  notify_discussion_locked: Ktoś zamknął Twoje pytanie
+  discussion_locked_post: "{username} zamknął wątek."
+  discussion_unlocked_post: "{username} otworzył ponownie watek."
+  notify_discussion_locked: Ktoś zamknął Twój wątek
   locked: Zamknięte
   lock: Zamknij
   unlock: Otwórz

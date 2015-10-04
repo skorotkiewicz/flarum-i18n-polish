@@ -4,7 +4,7 @@ tags:
     other: "{username} {action} tags."
   added_tags: "dodał {tags}"
   removed_tags: "usunął {tags}"
-  tag_new_discussion_title: Wybierz tagi dla pytania
+  tag_new_discussion_title: Wybierz tagi dla wątku
   edit_discussion_tags_title: "Edytuj tagi dla {title}"
   edit_discussion_tags_link: Edytuj Tagi
   choose_primary_tags:
