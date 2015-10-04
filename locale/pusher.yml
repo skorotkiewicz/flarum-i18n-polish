@@ -1,9 +1,4 @@
 pusher:
   show_updated_discussions:
-<<<<<<< HEAD
     one: "Pojawiło się {count} nowe pytanie, pokaż je"
     other: "Pojawiło się {count} nowych pytań, pokaż je"
-=======
-    one: "Pojawiło się {count} nowe pytanie, pokaż je"
-    other: "Pojawiło się {count} nowych pytań, pokaż je"
->>>>>>> 82b3569eda96e47bf7fd828aa1abc5006a388ed0
