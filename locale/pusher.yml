@@ -1,4 +1,4 @@
 pusher:
   show_updated_discussions:
-    one: "Pojawiło się {count} nowe pytanie, pokaż je"
-    other: "Pojawiło się {count} nowych pytań, pokaż je"
+    one: "Pojawiła się {count} nowa odpowiedź, pokaż ją"
+    other: "Pojawiły się {count} nowych odpowiedzi, pokaż je"
