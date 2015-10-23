@@ -67,7 +67,7 @@ core:
   password: Hasło
   password_reset_email_sent: Wysłaliśmy Ci e-mail z linkiem do zresetowania hasła. Sprawdź swój folder spam, jeśli nie otrzymasz go w ciągu kolejnej minuty lub dwóch.
   period_later: "{period} później"
-  post_discussion: Rozpocznij wąrek
+  post_discussion: Rozpocznij wątek
   post_edited: "{username} edytował {ago}"
   post_number: "Wątek #{number}"
   post_reply: Odpowiedz
