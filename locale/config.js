@@ -1,7 +1,3 @@
-app.translator.plural = function(count) {
-  return count == 1 ? 'one' : 'other';
-};
-
 moment.locale('pl', {
 
     months : "styczeń_luty_marzec_kwiecień_maj_czerwiec_lipiec_sierpień_wrzesień_październik_listopad_grudzień".split("_"),

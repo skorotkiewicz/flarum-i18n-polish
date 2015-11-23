@@ -1,7 +1,22 @@
 {
-    "autoload": {
-        "psr-4": {
-            "ITunix\\": "src/"
+    "name": "flarum/polish",
+    "type": "flarum-extension",
+    "description": "Polish language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "extra": {
+        "flarum-extension": {
+            "title": "Polish",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "pl",
+            "title": "Polish"
         }
     }
 }
