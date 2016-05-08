@@ -2,8 +2,12 @@
     "name": "flarum/polish",
     "type": "flarum-extension",
     "description": "Polish language pack.",
+    "homepage": "https://flarum.com.pl/",
     "keywords": ["locale"],
     "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.5"
+    },
     "extra": {
         "flarum-extension": {
             "title": "Polish",
