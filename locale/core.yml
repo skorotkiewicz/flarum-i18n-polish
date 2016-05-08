@@ -116,13 +116,19 @@ core:
       signup_closed_button: Zamknij
       signup_open_button: Otwórz
 
+    # These translations are used in the Settings modal dialog.
+    settings:
+      submit_button: => core.ref.save_changes
+
   # Strings in this namespace are used by the forum user interface.
   forum:
 
     # These strings are used in the Change Email modal dialog.
     change_email:
       confirmation_message: => core.ref.confirmation_email_sent
+      confirm_password_label: Potwierdz hasło
       dismiss_button: => core.ref.okay
+      incorrect_password_message: Podane hasło jest błędne.
       submit_button: => core.ref.save_changes
       title: => core.ref.change_email
 
@@ -144,6 +150,7 @@ core:
       body_placeholder: Podaj szczegóły dotyczace pytania...
       discard_confirmation: "Nie wysłano twojego pytania. Czy chcesz je usunąć?"
       submit_button: Zadaj pytanie
+      title: => core.ref.start_a_discussion
       title_placeholder: Wpisz tytuł pytania
 
     # These strings are used by the composer when editing a post.
@@ -211,6 +218,7 @@ core:
     index:
       all_discussions_link: => core.ref.all_discussions
       cannot_start_discussion_button: Nie można zadać pytania
+      mark_all_as_read_confirmation: "Czy na pewno chcesz oznaczyć wszystkie pytania, jako przeczytane?"      
       mark_all_as_read_tooltip: => core.ref.mark_all_as_read
       refresh_tooltip: Odśwież
       start_discussion_button: Zadaj pytanie
@@ -264,6 +272,7 @@ core:
     # These strings are displayed between posts in the post stream.
     post_stream:
       discussion_renamed_text: "{username} zmienił tytuł z {old} na {new}."
+      load_more_button: => core.ref.load_more
       reply_placeholder: => core.ref.write_a_reply
       time_lapsed_text: "{period} później"
 
@@ -316,6 +325,12 @@ core:
       delete_button: => core.ref.delete
       delete_confirmation: "Czy na pewno chcesz usunąć tego użytkownika? Wszystkie pytania użytkownika zostaną usunięte."
       edit_button: => core.ref.edit
+
+    # These translations are used in the alert that is shown when a new user has not confirmed their email address.
+    user_email_confirmation:
+      alert_message: => core.ref.confirmation_email_sent
+      resend_button: Wyślij ponownie email aktywacyjny
+      sent_message: Wysłano
 
   # Strings in this namespace are used by the forum and admin interfaces.
   lib:
