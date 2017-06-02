@@ -99,11 +99,11 @@ core:
       new_group_button: Nowa grupa
       participate_heading: Strona główna
       read_heading: Przeczytane
-      rename_discussions_label: Zmień nazwę pytania
-      reply_to_discussions_label: Odpowiedź na pytanie
+      rename_discussions_label: Zmień tytuł dyskusji
+      reply_to_discussions_label: Odpowiedź
       sign_up_label: Zarejestruj się
-      start_discussions_label: Zadaj pytanie
-      view_discussions_label: Zobacz pytanie
+      start_discussions_label: Rozpocznij dyskusję
+      view_discussions_label: Zobacz dyskusję
 
     # These strings are used in the dropdown menus on the Permissions page.
     permissions_controls:
